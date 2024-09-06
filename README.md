@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slayersaito1912
+- 👋 Hi, I’m Ravulapalli Manas
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning Cs50x
 - 💞️ I’m looking to collaborate on ...
